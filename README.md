@@ -1,5 +1,10 @@
 # 💫 About Me:
-As a Web developer, I'm fueled by a deep passion for crafting seamless and visually stunning web interfaces. My unwavering commitment to excellence is driven by a dream to innovate and inspire through every line of code. Motivated by the belief that great design can change the world, I continuously challenge myself to exceed expectations and deliver unparalleled user experiences.
+I’m a developer and product builder who enjoys taking ideas from concept to deployment.
+My work revolves around JavaScript, React, React Native, Node.js, Firebase, and cloud services, with a strong focus on usability and performance.
+
+Instead of just coding features, I think in terms of products: scalability, user experience, and long-term maintainability.
+Actively building, learning, and pushing toward production-ready systems.
+
 
 
 ## 🌐 Socials:
