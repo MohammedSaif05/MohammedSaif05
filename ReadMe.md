@@ -34,12 +34,12 @@ I'm a Software Engineer specializing in **full-stack and mobile product engineer
 
 I approach engineering with a **product mindset**: shipping features that solve operational problems, not just technical demos. From ML-powered face recognition pipelines to Gemini-integrated conversational AI, I enjoy the intersection of clean systems design and applied AI.
 
-```yaml
+
 Engineer:
   focus: [Full-Stack Development, AI/ML Integration, Mobile Engineering]
   philosophy: "Ship production-grade systems, not prototypes"
   strengths: [Scalable Architecture, Multi-Tenant Systems, AI-Assisted Engineering]
-```
+
 
 **🎯 Open To:** Software Engineering Roles · React Native / Full-Stack Opportunities · AI Engineering Collaborations · Open Source Contributions
 
@@ -325,7 +325,7 @@ Contributed to LIT, a full-stack AI-powered application integrating cloud infras
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedsaif05&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
+<img src="https://github-stats-extended.vercel.app/?username=mohammedsaif05&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
