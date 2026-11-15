@@ -86,7 +86,7 @@ const saif = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsaif05&theme=tokyonight&bg_color=0D1117&hide_border=true&area=true&radius=10" width="100%" />
+<img src="https://ghchart.rshah.org/58A6FF/MohammedSaif05" width="100%" alt="Contribution graph" />
 
 </div>
 
@@ -95,29 +95,38 @@ const saif = {
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-<!--
-  Replace REPO_NAME_1 / 2 / 3 / 4 with your actual public repo names.
-  Delete this comment block afterwards.
--->
-
 <div align="center">
 
-<a href="https://github.com/mohammedsaif05/REPO_NAME_1"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/mohammedsaif05/REPO_NAME_2"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-
-<a href="https://github.com/mohammedsaif05/REPO_NAME_3"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/mohammedsaif05/REPO_NAME_4"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-
-</div>
-
-<br/>
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedsaif05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/MohammedSaif05/ai-sales-agent-backend">AI Sales Agent Backend</a></h3>
+      <p>Backend for an AI-powered sales agent that handles customer conversations and lead interactions.</p>
+      <img src="https://img.shields.io/badge/Backend-1F6FEB?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI-8957E5?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/MohammedSaif05/connexxara">Connexxara</a></h3>
+      <p>Product built end to end, from idea to deployment, with a focus on usability and performance.</p>
+      <img src="https://img.shields.io/badge/Full--Stack-1F6FEB?style=flat-square" />
+      <img src="https://img.shields.io/badge/Product-8957E5?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/MohammedSaif05/campus-connect-backend">Campus Connect Backend</a></h3>
+      <p>REST API powering the Campus Connect platform for students.</p>
+      <img src="https://img.shields.io/badge/Backend-1F6FEB?style=flat-square" />
+      <img src="https://img.shields.io/badge/API-8957E5?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/MohammedSaif05/bookitall-partner-app">BookItAll Partner App</a></h3>
+      <p>Mobile app for BookItAll partners to manage their bookings and business on the go.</p>
+      <img src="https://img.shields.io/badge/React_Native-1F6FEB?style=flat-square" />
+      <img src="https://img.shields.io/badge/Mobile-8957E5?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
