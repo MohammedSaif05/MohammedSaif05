@@ -100,30 +100,44 @@ const saif = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/MohammedSaif05/ai-sales-agent-backend">AI Sales Agent Backend</a></h3>
-      <p>Backend for an AI-powered sales agent that handles customer conversations and lead interactions.</p>
-      <img src="https://img.shields.io/badge/Backend-1F6FEB?style=flat-square" />
-      <img src="https://img.shields.io/badge/AI-8957E5?style=flat-square" />
+      <h3>🤖 <a href="https://github.com/MohammedSaif05/AI-sales-agent-backend">AI Sales Agent Backend</a></h3>
+      <p>Backend for an AI-powered sales agent that handles customer conversations.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-8957E5?style=flat-square&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 <a href="https://github.com/MohammedSaif05/connexxara">Connexxara</a></h3>
-      <p>Product built end to end, from idea to deployment, with a focus on usability and performance.</p>
-      <img src="https://img.shields.io/badge/Full--Stack-1F6FEB?style=flat-square" />
-      <img src="https://img.shields.io/badge/Product-8957E5?style=flat-square" />
+      <h3>📱 <a href="https://github.com/MohammedSaif05/connexaara">Connexaara</a></h3>
+      <p>Cross-platform mobile app built with React Native and Firebase.</p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/MohammedSaif05/campus-connect-backend">Campus Connect Backend</a></h3>
-      <p>REST API powering the Campus Connect platform for students.</p>
-      <img src="https://img.shields.io/badge/Backend-1F6FEB?style=flat-square" />
-      <img src="https://img.shields.io/badge/API-8957E5?style=flat-square" />
+      <p>REST API powering the Campus Connect platform.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Backend-1F6FEB?style=flat-square&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/MohammedSaif05/bookitall-partner-app">BookItAll Partner App</a></h3>
-      <p>Mobile app for BookItAll partners to manage their bookings and business on the go.</p>
-      <img src="https://img.shields.io/badge/React_Native-1F6FEB?style=flat-square" />
-      <img src="https://img.shields.io/badge/Mobile-8957E5?style=flat-square" />
+      <h3>🎟️ <a href="https://github.com/MohammedSaif05/bookitall-web-deploy">BookItAll</a></h3>
+      <p>BookItAll web deployment, part of the BookItAll product suite.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/MohammedSaif05/ai-doc-voice-mate">AI Doc Voice Mate</a></h3>
+      <p>AI assistant for working with documents using voice.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-8957E5?style=flat-square&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💌 <a href="https://github.com/MohammedSaif05/AI-greeting-card">AI Greeting Card</a></h3>
+      <p>Generate personalised greeting cards with AI.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-8957E5?style=flat-square&logoColor=white" />
     </td>
   </tr>
 </table>
