@@ -1,27 +1,135 @@
-# 💫 About Me:
-I’m a developer and product builder who enjoys taking ideas from concept to deployment. My work revolves around JavaScript, React, React Native, Node.js, and cloud services, with a strong focus on usability and performance.<br><br>Instead of just coding features, I think in terms of products: scalability, user experience, and long-term maintainability. Actively building, learning, and pushing toward production-ready systems.
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:1F6FEB,100:8957E5&text=Mohammed%20Saif&fontColor=FFFFFF&fontSize=54&fontAlignY=36&desc=Developer%20%E2%80%A2%20Product%20Builder&descSize=20&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blastersaif05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedsaif05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pianist.saif05@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Full-Stack+Developer;React+Native+Engineer;AI%2FML+Builder;Idea+%E2%86%92+Production" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohammedsaif05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mohammedsaif05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedsaif05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammedsaif05&theme=solarized-dark&no-frame=true&no-bg=true&margin-w=4)
+<a href="https://linkedin.com/in/mohammedsaif05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pianist.saif05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/blastersaif05"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=mohammedsaif05&label=Profile%20Views&color=1F6FEB&style=for-the-badge" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mohammedsaif05&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=mohammedsaif05&icon=5&color=0)](https://visitcount.itsvg.in)
+<!-- ===================== ABOUT ===================== -->
+## 👋 About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a developer and product builder who takes ideas from **concept to deployment**. I work across **React, React Native, Node.js and cloud services**, with a strong focus on usability and performance.
+
+I don't just ship features, I think in **products**: scalability, user experience and long-term maintainability.
+
+```js
+const saif = {
+  role: "Full-Stack & Mobile Developer",
+  focus: ["Product thinking", "Performance", "Scalable systems"],
+  currently: "Building production-ready systems",
+  openTo: ["Collaborations", "Internships", "Full-time roles"],
+};
+```
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,py,html,css&perline=7" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma&perline=7" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase&perline=7" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,git,github&perline=7" />
+<br/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+</div>
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=mohammedsaif05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedsaif05&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mohammedsaif05&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<br/>
+
+<!-- ===================== ACTIVITY ===================== -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsaif05&theme=tokyonight&bg_color=0D1117&hide_border=true&area=true&radius=10" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<!--
+  Replace REPO_NAME_1 / 2 / 3 / 4 with your actual public repo names.
+  Delete this comment block afterwards.
+-->
+
+<div align="center">
+
+<a href="https://github.com/mohammedsaif05/REPO_NAME_1"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohammedsaif05/REPO_NAME_2"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://github.com/mohammedsaif05/REPO_NAME_3"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohammedsaif05/REPO_NAME_4"><img src="https://github-readme-stats.shion.dev/api/pin/?username=mohammedsaif05&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+
+</div>
+
+<br/>
+
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedsaif05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+<br/>
+
+<!-- ===================== QUOTE ===================== -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8957E5,50:1F6FEB,100:0D1117&section=footer" width="100%" />
+
+</div>
